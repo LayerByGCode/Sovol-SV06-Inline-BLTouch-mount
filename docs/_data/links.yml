@@ -1,0 +1,22 @@
+- link: '#download'
+  name: Download
+- link: '#print-instruction'
+  name: Print instruction
+- link: '#required-hardware'
+  name: Required hardware
+- link: '#klipper-config-changes'
+  name: Klipper config changes
+- link: '#adjust-pins-if-needed'
+  name: Adjust pins if needed
+- link: '#context'
+  name: Context
+- link: '#symptoms'
+  name: Symptoms
+- link: '#design-choices'
+  name: Design choices
+- link: '#frequently-asked-questions'
+  name: Frequently Asked Questions
+- link: '#photos'
+  name: Photos
+- link: '#credits'
+  name: Credits
